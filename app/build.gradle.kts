@@ -8,11 +8,11 @@ plugins {
 }
 
 android {
-    namespace = "io.github.narendrakumar2259.parkspot"
+    namespace = "io.github.narendrakumar2259.parkspotassignment"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "io.github.narendrakumar2259.parkspot"
+        applicationId = "io.github.narendrakumar2259.parkspotassignment"
         minSdk = 29
         targetSdk = 36
         versionCode = 1
