@@ -4,11 +4,10 @@ A real-time parking slot reservation app for Android, built with **Jetpack Compo
 
 Users pick a time window, see live availability across a pool of 20 parking slots, reserve one with a tap, and manage their bookings — with **double-booking made impossible** at the database level, even when multiple users race for the same slot.
 
-<!-- Drop 2–3 screenshots or a short screen recording here — e.g.
-| Slots dashboard | Booking a slot | My bookings |
-|---|---|---|
-| <img src="screenshots/dashboard.png" width="250"/> | <img src="screenshots/booking.png" width="250"/> | <img src="screenshots/bookings.png" width="250"/> |
--->
+
+https://github.com/user-attachments/assets/bcea3fef-d2f4-4d53-b249-b8a95da3c424
+
+
 
 ## Features
 
