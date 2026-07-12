@@ -8,6 +8,11 @@ Users pick a time window, see live availability across a pool of 20 parking slot
 https://github.com/user-attachments/assets/bcea3fef-d2f4-4d53-b249-b8a95da3c424
 
 
+https://github.com/user-attachments/assets/07a7c88c-613b-49d7-9f2c-32e3d779b9bf
+
+
+
+
 
 ## Features
 
@@ -82,22 +87,6 @@ reservations/{reservationId}
 ```
 
 The slot pool (20 slots) is seeded idempotently on first launch via a batched write.
-
-## Getting started
-
-**Prerequisites:** Android Studio (latest stable), JDK 11+, an Android device/emulator on API 29+.
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/NarendraKumar-2259/ParkSpot.git
-   ```
-2. Set up Firebase:
-   - Create a project at the [Firebase console](https://console.firebase.google.com/) and register an Android app with package name `io.github.narendrakumar2259.parkspotassignment`.
-   - Enable **Authentication → Anonymous** and create a **Cloud Firestore** database.
-   - Download `google-services.json` into the `app/` directory.
-3. Open in Android Studio, sync, and run. Slots are seeded automatically on first launch.
-
-To see the real-time sync and conflict handling in action, run the app on two emulators side by side and race for the same slot.
 
 ## Project structure
 
